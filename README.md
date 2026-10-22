@@ -25,7 +25,7 @@ El plan básico supera sustancialmente al premium en todos los rangos de edad, p
 Los mensajes son el servicio más utilizado en ambos planes, por encima de las llamadas.
 Recomendaciones
 
-Estrategias de retención y mejoras en los planes: [COMPLETAR: 2 o 3 recomendaciones concretas].
+Estrategias de retención y mejoras en los planes: 
 
 Estructura del repositorio
 ├── data/          # dataset
